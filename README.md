@@ -1,4 +1,3 @@
-# AnimeFinder
 # Anime Search App
 
 An interactive web application to search for anime using the Jikan API and manage your favorites.
@@ -11,9 +10,6 @@ An interactive web application to search for anime using the Jikan API and manag
 - 🌙 Dark/Light theme toggle
 - 📱 Responsive design for desktop and mobile devices
 
-## Live Demo
-
-[View Live Demo](#) - Replace with your live demo link when available
 
 ## Technologies Used
 
