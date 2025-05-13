@@ -3,7 +3,6 @@
 
 An interactive web application to search for anime using the Jikan API and manage your favorites.
 
-![Anime Search App Preview](https://via.placeholder.com/800x400?text=Anime+Search+App)
 
 ## Features
 
