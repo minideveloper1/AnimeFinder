@@ -11,7 +11,7 @@ const tabs = document.querySelectorAll('.tab');
 const themeToggle = document.getElementById('themeToggle');
 const themeIcon = document.getElementById('themeIcon');
 const themeText = document.getElementById('themeText');
-const newFuature = 85
+const newFuature = 85 // ...
 
 
 let favorites = JSON.parse(localStorage.getItem(STORAGE_KEY) || '[]');
